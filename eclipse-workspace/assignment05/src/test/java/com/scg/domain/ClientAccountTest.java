@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.scg.domain;
 
 import static org.junit.Assert.assertEquals;
